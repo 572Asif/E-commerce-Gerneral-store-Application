@@ -1,1 +1,1 @@
-# E-commerce-Gerneral-store-Application
+# E-commerce Gerneral store Application
